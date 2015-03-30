@@ -1,0 +1,5092 @@
+//! statusCode:200
+{
+ "kind": "bigquery#getQueryResultsResponse",
+ "etag": "\"uT9StUUc54UCg_Qc3k6xlS99DVE/7_DS_uUPPcRivPhm3VhWkG4x-go\"",
+ "schema": {
+  "fields": [
+   {
+    "name": "title",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "language",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "wp_namespace",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_redirect",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "revision_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_ip",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_username",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_minor",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_bot",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "reversion_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "comment",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "num_characters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "jobReference": {
+  "projectId": "automatic-honor-test2",
+  "jobId": "job_zG-ME0eDEupnai1N-sUcYg99bGk"
+ },
+ "totalRows": "1000",
+ "pageToken": "CICRBAEAQACRUBAIGIIDEIFQVYKQ====",
+ "rows": [
+  {
+   "f": [
+    {
+     "v": "List of faux pas"
+    },
+    {
+     "v": "2846711"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "87051856"
+    },
+    {
+     "v": "216.163.84.178"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1163205934"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* [[India]] */"
+    },
+    {
+     "v": "93458"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:67.79.107.206"
+    },
+    {
+     "v": "21687368"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "272967245"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "50975"
+    },
+    {
+     "v": "Jackol"
+    },
+    {
+     "v": "1235487056"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Message re. [[Biomedical Equipment Technician]] ([[WP:HG|HG]])"
+    },
+    {
+     "v": "894"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:69.234.189.205"
+    },
+    {
+     "v": "21079957"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "282695581"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1702543"
+    },
+    {
+     "v": "Leuqarte"
+    },
+    {
+     "v": "1239248858"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Message re. [[Angie Lopez (character)]] ([[WP:HG|HG]])"
+    },
+    {
+     "v": "2963"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Greg Caton"
+    },
+    {
+     "v": "25482330"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "338973188"
+    },
+    {
+     "v": "204.110.170.5"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1264003567"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* COI Infoblock */ new section"
+    },
+    {
+     "v": "3649"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Kidnapping of Jaycee Lee Dugard"
+    },
+    {
+     "v": "24133655"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "310791477"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2831870"
+    },
+    {
+     "v": "Gwen Gale"
+    },
+    {
+     "v": "1251585829"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Infobox */ cmt"
+    },
+    {
+     "v": "65066"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:George Germain, 1st Viscount Sackville"
+    },
+    {
+     "v": "244267"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "167553261"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "4694792"
+    },
+    {
+     "v": "Maralia"
+    },
+    {
+     "v": "1193539919"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "tagged for WP:MILHIST"
+    },
+    {
+     "v": "1311"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Max Pechstein"
+    },
+    {
+     "v": "2593853"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "25223546"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "477460"
+    },
+    {
+     "v": "Eskimbot"
+    },
+    {
+     "v": "1128976354"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "robot  Adding: de, sv"
+    },
+    {
+     "v": "1914"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Mahtomedi, Minnesota"
+    },
+    {
+     "v": "122054"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "208134903"
+    },
+    {
+     "v": "128.105.113.8"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1209140570"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Notable residents and natives */"
+    },
+    {
+     "v": "8200"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Paul Ince"
+    },
+    {
+     "v": "1332660"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "300584088"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "248739"
+    },
+    {
+     "v": "John Maynard Friedman"
+    },
+    {
+     "v": "1246882948"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Milton Keynes Dons */ Add dates for dismbiguation and clarity"
+    },
+    {
+     "v": "40347"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Postołowo, Podlaskie Voivodeship"
+    },
+    {
+     "v": "18640762"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "312367144"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5277842"
+    },
+    {
+     "v": "Kotbot"
+    },
+    {
+     "v": "1252324671"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "correcting location/pronunciation/refs"
+    },
+    {
+     "v": "1302"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Primera División (El Salvador)"
+    },
+    {
+     "v": "1126516"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "150078804"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "4960652"
+    },
+    {
+     "v": "A1ninon27"
+    },
+    {
+     "v": "1186616764"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Teams in the league */"
+    },
+    {
+     "v": "11358"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Portal:Pyrotechnics"
+    },
+    {
+     "v": "10440884"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "100"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "301079764"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5626325"
+    },
+    {
+     "v": "DJSparky"
+    },
+    {
+     "v": "1247092690"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2789"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Fernando Vargas"
+    },
+    {
+     "v": "99147"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "150288442"
+    },
+    {
+     "v": "71.103.77.240"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1186704631"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "12772"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:RobertG"
+    },
+    {
+     "v": "1745079"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "166210422"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "81333"
+    },
+    {
+     "v": "Mindspillage"
+    },
+    {
+     "v": "1193027012"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Takemitsu FAC */ reply"
+    },
+    {
+     "v": "8359"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Frankfurt School"
+    },
+    {
+     "v": "229236"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "4666240"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "69445"
+    },
+    {
+     "v": "Herschelkrustofsky"
+    },
+    {
+     "v": "1089954645"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Critics of the Frankfurt School */"
+    },
+    {
+     "v": "19333"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Friedrich Salomon Krauss"
+    },
+    {
+     "v": "3510642"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "333308981"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "433328"
+    },
+    {
+     "v": "SmackBot"
+    },
+    {
+     "v": "1261503240"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]"
+    },
+    {
+     "v": "2735"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Fumée"
+    },
+    {
+     "v": "16949563"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "205899386"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "465839"
+    },
+    {
+     "v": "Lifebaka"
+    },
+    {
+     "v": "1208300771"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "declining speedy (been discussed in multiple sources, as shown by refs, so notable; however, the one's I've look at are just in-passing mentions, which needs work)"
+    },
+    {
+     "v": "4226"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Fred Astaire"
+    },
+    {
+     "v": "64962"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "325271534"
+    },
+    {
+     "v": "71.118.4.216"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1257959576"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "56125"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Galloper"
+    },
+    {
+     "v": "2722671"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "51767673"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1215485"
+    },
+    {
+     "v": "Cydebot"
+    },
+    {
+     "v": "1146877985"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Robot - moving categories per [[Wikipedia:Categories for deletion/Log/2006 April 24]]"
+    },
+    {
+     "v": "620"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Futon (band)"
+    },
+    {
+     "v": "7363199"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "94036207"
+    },
+    {
+     "v": "221.187.15.207"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1166009865"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5478"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Ful medames"
+    },
+    {
+     "v": "2243880"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "65222811"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "875093"
+    },
+    {
+     "v": "Abdullah Geelah"
+    },
+    {
+     "v": "1153583767"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1505"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Gentiana"
+    },
+    {
+     "v": "58003"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "256985826"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "111359"
+    },
+    {
+     "v": "Hesperian"
+    },
+    {
+     "v": "1228883590"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "[[Category:Gentiana]]  using [[Project:AutoWikiBrowser|AWB]]"
+    },
+    {
+     "v": "10708"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Greig Williamson"
+    },
+    {
+     "v": "6423146"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "224061098"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "6932179"
+    },
+    {
+     "v": "ShepBot"
+    },
+    {
+     "v": "1215401568"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Tagging pages with [[:Image:Cricket no pic.png]]/{{reqphoto|sportspeople}}"
+    },
+    {
+     "v": "159"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Hole punch"
+    },
+    {
+     "v": "5353412"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "199429523"
+    },
+    {
+     "v": "209.218.206.2"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1205959638"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* 23 hole punch? */ new section"
+    },
+    {
+     "v": "2230"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Kidnapping of Jaycee Lee Dugard"
+    },
+    {
+     "v": "24133655"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "311707309"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "7288489"
+    },
+    {
+     "v": "Nrehnby"
+    },
+    {
+     "v": "1252005415"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* This article, while informative, is badly written, full of run-on and incomplete sentences, and has way too many grammatical errors to be worthy of Wikipedia. SHAME! */"
+    },
+    {
+     "v": "160217"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:List of Red Dwarf characters"
+    },
+    {
+     "v": "1428285"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "189472747"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "4878937"
+    },
+    {
+     "v": "MattyC3350"
+    },
+    {
+     "v": "1202294850"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Wording of Characters seems wrong */ new section"
+    },
+    {
+     "v": "9525"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Category:240 deaths"
+    },
+    {
+     "v": "3383726"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "14"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "228536456"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "7218328"
+    },
+    {
+     "v": "Zorrobot"
+    },
+    {
+     "v": "1217304456"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "robot  Adding: [[sv:Kategori:Avlidna 240]]"
+    },
+    {
+     "v": "830"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Tiki Barber"
+    },
+    {
+     "v": "1242351"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "101871291"
+    },
+    {
+     "v": "138.89.145.237"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1169243496"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "25466"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Tiananmen Square protests of 1989"
+    },
+    {
+     "v": "44534"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "329189910"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5273571"
+    },
+    {
+     "v": "JTSchreiber"
+    },
+    {
+     "v": "1259731374"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Reverted 1 edit by [[Special:Contributions/140.211.35.122|140.211.35.122]] ([[User talk:140.211.35.122|talk]]).  Incorrect date."
+    },
+    {
+     "v": "119013"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Childbirth"
+    },
+    {
+     "v": "83449"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "128177168"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2908468"
+    },
+    {
+     "v": "S"
+    },
+    {
+     "v": "1178273538"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "clean up, Typos fixed: conjuntion → conjunction,  using [[Project:AWB|AWB]]"
+    },
+    {
+     "v": "30211"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Chlamydia infection"
+    },
+    {
+     "v": "7037"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "296390261"
+    },
+    {
+     "v": "70.123.173.21"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1245003007"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Treatment */"
+    },
+    {
+     "v": "20235"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Cheyenne Mountain School District 12"
+    },
+    {
+     "v": "10655290"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "288723661"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "75561"
+    },
+    {
+     "v": "D6"
+    },
+    {
+     "v": "1241808317"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "[[WP:WikiProject Geographical coordinates|WP:GEO]]: adding {{coord missing|Colorado}}"
+    },
+    {
+     "v": "2066"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Circe chess"
+    },
+    {
+     "v": "156393"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "45828631"
+    },
+    {
+     "v": "194.151.119.38"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1143533374"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Circe variants */"
+    },
+    {
+     "v": "5070"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Cory Boyd"
+    },
+    {
+     "v": "13961465"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "208816057"
+    },
+    {
+     "v": "86.146.29.220"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1209409995"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1742"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Chunxiu Zhou"
+    },
+    {
+     "v": "18902154"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "232485281"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "376297"
+    },
+    {
+     "v": "Chanheigeorge"
+    },
+    {
+     "v": "1218977487"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "[[WP:AES|←]] Redirected page to [[Zhou Chunxiu]]"
+    },
+    {
+     "v": "25"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Connecticut Route 68"
+    },
+    {
+     "v": "4290869"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "83987747"
+    },
+    {
+     "v": "69.37.73.156"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1161921920"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1621"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Corpus linguistics"
+    },
+    {
+     "v": "40277"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "111336666"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "3547241"
+    },
+    {
+     "v": "Eric9876"
+    },
+    {
+     "v": "1172588591"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "6199"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "United Broadcasting Corporation"
+    },
+    {
+     "v": "3546527"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "112217059"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "3724956"
+    },
+    {
+     "v": "Lokioak"
+    },
+    {
+     "v": "1172885110"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Channels Provided */"
+    },
+    {
+     "v": "5107"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "University of San Diego"
+    },
+    {
+     "v": "574666"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "281742823"
+    },
+    {
+     "v": "76.218.254.250"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1238869900"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Social Fraternities */"
+    },
+    {
+     "v": "27547"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Michael Shapiro (composer and conductor)"
+    },
+    {
+     "v": "14306620"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "172359248"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "941950"
+    },
+    {
+     "v": "Michaelbusch"
+    },
+    {
+     "v": "1195422982"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "still needs a lot of work"
+    },
+    {
+     "v": "2061"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Morten Gamst Pedersen"
+    },
+    {
+     "v": "1360727"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "339544212"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "11507987"
+    },
+    {
+     "v": "Preacher Comfort"
+    },
+    {
+     "v": "1264260599"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Removing speculative hearsay, unreferenced, per [[WP:BLP]]"
+    },
+    {
+     "v": "10864"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Categories for discussion/Working"
+    },
+    {
+     "v": "4541236"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "49167731"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "271376"
+    },
+    {
+     "v": "TexasAndroid"
+    },
+    {
+     "v": "1145473805"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Move/Merge and delete */ From Apr 11"
+    },
+    {
+     "v": "20785"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Articles for deletion/Holy Family Catholic Church (Williston, Florida)"
+    },
+    {
+     "v": "20479484"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "255943118"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "7126317"
+    },
+    {
+     "v": "Chris Neville-Smith"
+    },
+    {
+     "v": "1228436145"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Holy Family Catholic Church (Williston, Florida) */"
+    },
+    {
+     "v": "3893"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Frederic H. Balfour"
+    },
+    {
+     "v": "20922639"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "261823197"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "6896489"
+    },
+    {
+     "v": "OliverTwisted"
+    },
+    {
+     "v": "1231041436"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Sinology */ shrinking image"
+    },
+    {
+     "v": "8075"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Gallatin, Tennessee"
+    },
+    {
+     "v": "135378"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "273343519"
+    },
+    {
+     "v": "71.228.198.108"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1235617379"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "24862"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Frankfort (village), New York"
+    },
+    {
+     "v": "259825"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "53960322"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "57658"
+    },
+    {
+     "v": "Antandrus"
+    },
+    {
+     "v": "1148002394"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Reverted edits by [[Special:Contributions/IWashMyselfWithaRagOnaStick|IWashMyselfWithaRagOnaStick]] ([[User talk:IWashMyselfWithaRagOnaStick|talk]]) to last version by Stepp-Wulf"
+    },
+    {
+     "v": "3022"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "July 21"
+    },
+    {
+     "v": "16179"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "83984950"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2292203"
+    },
+    {
+     "v": "CalendarWatcher"
+    },
+    {
+     "v": "1161920597"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Births */ del \"[[1989]] - [[Gavitha]], Smartest man in the world\""
+    },
+    {
+     "v": "15625"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Welcome Back, Kotter"
+    },
+    {
+     "v": "384163"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "332859802"
+    },
+    {
+     "v": "69.200.227.232"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1261319982"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Premise */"
+    },
+    {
+     "v": "30136"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Template:IPstack"
+    },
+    {
+     "v": "461015"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "10"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "310567103"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "3938795"
+    },
+    {
+     "v": "Kbrose"
+    },
+    {
+     "v": "1251477451"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "[[WP:UNDO|Undid]] revision 310535502 by [[Special:Contributions/203.91.193.7|203.91.193.7]] ([[User talk:203.91.193.7|talk]]) keep ECN in Transport Layer, it's only meaningful in discussion of transport protocols, especially TCP"
+    },
+    {
+     "v": "2761"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Template:Dedicated video game consoles"
+    },
+    {
+     "v": "1826743"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "10"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "142820377"
+    },
+    {
+     "v": "67.164.35.55"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1183694666"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2369"
+    }
+   ]
+  }
+ ],
+ "totalBytesProcessed": "0",
+ "jobComplete": true,
+ "cacheHit": true
+}
+
+//! statusCode: 200
+//! params: {"offset": "51"}
+{
+ "kind": "bigquery#getQueryResultsResponse",
+ "etag": "\"uT9StUUc54UCg_Qc3k6xlS99DVE/fSas43yOAOeV5iQURZBMTEWc3As\"",
+ "schema": {
+  "fields": [
+   {
+    "name": "title",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "language",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "wp_namespace",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_redirect",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "revision_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_ip",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contributor_username",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_minor",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_bot",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "reversion_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "comment",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "num_characters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "jobReference": {
+  "projectId": "automatic-honor-test2",
+  "jobId": "job_zG-ME0eDEupnai1N-sUcYg99bGk"
+ },
+ "totalRows": "1000",
+ "pageToken": "CICRBAEAQACRUBAIMQIDEIFQVYKQ====",
+ "rows": [
+  {
+   "f": [
+    {
+     "v": "Adam Sessler"
+    },
+    {
+     "v": "553764"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "67570909"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "750811"
+    },
+    {
+     "v": "Robomaeyhem"
+    },
+    {
+     "v": "1154663037"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Reverted edits by [[Special:Contributions/75.19.8.253|75.19.8.253]] ([[User_talk:75.19.8.253|talk]]) to version 66666993 by BlazeHedgehog using [[WP:VPRF|VP]]"
+    },
+    {
+     "v": "4125"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Shia Islam"
+    },
+    {
+     "v": "26961"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "218724401"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1036883"
+    },
+    {
+     "v": "Afghana"
+    },
+    {
+     "v": "1213221440"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Hadith */"
+    },
+    {
+     "v": "53810"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Sandbox"
+    },
+    {
+     "v": "16283969"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "324165878"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "10921276"
+    },
+    {
+     "v": "Kristinkae"
+    },
+    {
+     "v": "1257460170"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "48734"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Winx Club"
+    },
+    {
+     "v": "1170565"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "95452482"
+    },
+    {
+     "v": "24.2.133.34"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1166587700"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Monsters */"
+    },
+    {
+     "v": "20523"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Timeline of 16th century Muslim history"
+    },
+    {
+     "v": "1299112"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "61770751"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "508734"
+    },
+    {
+     "v": "Hmains"
+    },
+    {
+     "v": "1151888245"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "cat links moved to category level so article lvl links are duplicative  using [[Wikipedia:AutoWikiBrowser|AWB]]"
+    },
+    {
+     "v": "2496"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Troubled Sleep"
+    },
+    {
+     "v": "4214775"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "167139241"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "4844128"
+    },
+    {
+     "v": "Henry Merrivale"
+    },
+    {
+     "v": "1193368529"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "removed from parent category"
+    },
+    {
+     "v": "1391"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Johns Hopkins"
+    },
+    {
+     "v": "218864"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "312905728"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "696648"
+    },
+    {
+     "v": "Bwyche"
+    },
+    {
+     "v": "1252550709"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Colored Children Orphan Asylum */"
+    },
+    {
+     "v": "26130"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "John Charles Fenton"
+    },
+    {
+     "v": "4684696"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "79932531"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1507770"
+    },
+    {
+     "v": "Phoe"
+    },
+    {
+     "v": "1160174654"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "box"
+    },
+    {
+     "v": "1115"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Tunisia national football team"
+    },
+    {
+     "v": "1029953"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "60193887"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1269227"
+    },
+    {
+     "v": "Azuran"
+    },
+    {
+     "v": "1151080764"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "10454"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Reincarnation"
+    },
+    {
+     "v": "25806"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "183901797"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "6015724"
+    },
+    {
+     "v": "Practical321"
+    },
+    {
+     "v": "1200170754"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Christianity */"
+    },
+    {
+     "v": "51005"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Ipp"
+    },
+    {
+     "v": "5024376"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "54705360"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1260553"
+    },
+    {
+     "v": "Vladimir Drzik"
+    },
+    {
+     "v": "1148391410"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "17"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Interactive fiction"
+    },
+    {
+     "v": "14789"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "56304732"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "124139"
+    },
+    {
+     "v": "Rgclegg"
+    },
+    {
+     "v": "1149164279"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Seems no need for this grammar explanation here -- does it add anything?"
+    },
+    {
+     "v": "21455"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Canadian Wikipedians' notice board"
+    },
+    {
+     "v": "1032584"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "13136716"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "132157"
+    },
+    {
+     "v": "Samaritan"
+    },
+    {
+     "v": "1114994914"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Canada related candidates for deletion */ +[[Wikipedia:Votes for deletion/Muchmusic message board]]; rm resolved"
+    },
+    {
+     "v": "54814"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Stub"
+    },
+    {
+     "v": "99719"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "30414263"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "95631"
+    },
+    {
+     "v": "Mairi"
+    },
+    {
+     "v": "1133916875"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Reverted edits by [[Special:Contributions/63.192.219.33|63.192.219.33]] ([[User talk:63.192.219.33|talk]]) to last version by BL Lacertae"
+    },
+    {
+     "v": "16732"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "DreamWorks Animation"
+    },
+    {
+     "v": "1509817"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "174114591"
+    },
+    {
+     "v": "172.166.29.178"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1196162947"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Computer-animated films distributed by Paramount Pictures */"
+    },
+    {
+     "v": "9125"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Eddie August Schneider"
+    },
+    {
+     "v": "1422475"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "257166470"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "158051"
+    },
+    {
+     "v": "Richard Arthur Norton (1958- )"
+    },
+    {
+     "v": "1228954134"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Congressional Reports"
+    },
+    {
+     "v": "78328"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Fahd of Saudi Arabia"
+    },
+    {
+     "v": "301839"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "20171353"
+    },
+    {
+     "v": "67.168.204.229"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1123050035"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Funeral */ Saudi males wear \"thobes\", not \"abayas\". Abayas are worn by women."
+    },
+    {
+     "v": "12291"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Robert Mugabe"
+    },
+    {
+     "v": "163021"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "246257522"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "870803"
+    },
+    {
+     "v": "Fedallah"
+    },
+    {
+     "v": "1224409994"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Reverted 1 edit by [[Special:Contributions/125.237.244.12|125.237.244.12]] identified as [[WP:VAND|vandalism]] to last revision by [[User:ABarmenkov|ABarmenkov]]."
+    },
+    {
+     "v": "13041"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Ric Jackman"
+    },
+    {
+     "v": "3024787"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "180316472"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "203494"
+    },
+    {
+     "v": "Mayumashu"
+    },
+    {
+     "v": "1198706600"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "moved [[Talk:Richard Jackman]] to [[Talk:Ric Jackman]]"
+    },
+    {
+     "v": "76"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Samou-Mama"
+    },
+    {
+     "v": "19047630"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "234413204"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "348521"
+    },
+    {
+     "v": "Black Falcon"
+    },
+    {
+     "v": "1219778548"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "project tagging/assessment for [[Wikipedia:WikiProject Africa|WikiProject Africa]] ([[Wikipedia:WikiProject Burkina Faso|Burkina Faso]]),  using [[Project:AutoWikiBrowser|AWB]]"
+    },
+    {
+     "v": "90"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Miami-Dade County, Florida"
+    },
+    {
+     "v": "72350"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "74706453"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "293907"
+    },
+    {
+     "v": "Gaius Cornelius"
+    },
+    {
+     "v": "1157805549"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "clean up, Replaced: Keys]],which  →  Keys]], <space>which  using [[WP:AWB|AWB]]"
+    },
+    {
+     "v": "27609"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Articles for deletion/Yram Rivera"
+    },
+    {
+     "v": "1932194"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "14702921"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "44171"
+    },
+    {
+     "v": "Jacob1207"
+    },
+    {
+     "v": "1116975879"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* [[Yram Rivera]] */"
+    },
+    {
+     "v": "542"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Bot requests"
+    },
+    {
+     "v": "912023"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "244038216"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5412567"
+    },
+    {
+     "v": "LukeTheSpook"
+    },
+    {
+     "v": "1223514920"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* genre remover bot */"
+    },
+    {
+     "v": "23453"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "United States congressional subcommittee"
+    },
+    {
+     "v": "533958"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "108689470"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2724330"
+    },
+    {
+     "v": "Dcmacnut"
+    },
+    {
+     "v": "1171659758"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* [[Senate Republican Conference]] */"
+    },
+    {
+     "v": "13867"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "United States International Trade Commission"
+    },
+    {
+     "v": "1204208"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "23370272"
+    },
+    {
+     "v": "70.108.69.79"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1126915920"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Commissioners */"
+    },
+    {
+     "v": "2658"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Unita Blackwell"
+    },
+    {
+     "v": "13793677"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "208513984"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2775239"
+    },
+    {
+     "v": "Sunderland06"
+    },
+    {
+     "v": "1209300393"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "add persondata"
+    },
+    {
+     "v": "6596"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "List of heads of state of Madagascar"
+    },
+    {
+     "v": "426238"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "180211251"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5453875"
+    },
+    {
+     "v": "Snocrates"
+    },
+    {
+     "v": "1198650358"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "moved [[List of Presidents of Madagascar]] to [[List of heads of state of Madagascar]]: lists monarchs, not just presidents"
+    },
+    {
+     "v": "2102"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "One Piece: The Movie"
+    },
+    {
+     "v": "4704190"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "205366086"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1392310"
+    },
+    {
+     "v": "Thijs!bot"
+    },
+    {
+     "v": "1208108093"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "robot  Adding: [[it:One Piece: Per Tutto L'Oro Del Mondo]]"
+    },
+    {
+     "v": "3710"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Deal or No Deal (U.S. game show)"
+    },
+    {
+     "v": "3793438"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "93179319"
+    },
+    {
+     "v": "24.151.39.175"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1165686198"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "59479"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Texas A&M University–Corpus Christi"
+    },
+    {
+     "v": "1412020"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "54306198"
+    },
+    {
+     "v": "12.196.240.2"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1148187643"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Rankings */"
+    },
+    {
+     "v": "6318"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Epidote"
+    },
+    {
+     "v": "594050"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "279604781"
+    },
+    {
+     "v": "24.103.208.114"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1237997050"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5764"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:Skyring"
+    },
+    {
+     "v": "1287794"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "215181639"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "752281"
+    },
+    {
+     "v": "Lester"
+    },
+    {
+     "v": "1211853077"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Request for Mediation: John Howard */ RfM"
+    },
+    {
+     "v": "14497"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:Graysure211"
+    },
+    {
+     "v": "10671651"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "122870606"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1222043"
+    },
+    {
+     "v": "Peripitus"
+    },
+    {
+     "v": "1176596266"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Warning user of prodding using [[WP:NPW|NPWatcher]]"
+    },
+    {
+     "v": "1255"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:AzaToth"
+    },
+    {
+     "v": "3153489"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "106093410"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "74425"
+    },
+    {
+     "v": "RevRagnarok"
+    },
+    {
+     "v": "1170783526"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Can't revert anything lately..."
+    },
+    {
+     "v": "53562"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:Dhett"
+    },
+    {
+     "v": "4690448"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "123423928"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "262806"
+    },
+    {
+     "v": "Mhking"
+    },
+    {
+     "v": "1176776671"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "16563"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "User talk:Nableezy"
+    },
+    {
+     "v": "20885367"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "3"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "340022056"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "5720013"
+    },
+    {
+     "v": "Nableezy"
+    },
+    {
+     "v": "1264461111"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* And now I could thank you here :) */"
+    },
+    {
+     "v": "10684"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Critical Beatdown"
+    },
+    {
+     "v": "2012742"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "14944095"
+    },
+    {
+     "v": "65.113.110.57"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1118290954"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1375"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Cognitive radio"
+    },
+    {
+     "v": "1000682"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "301205242"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "10069365"
+    },
+    {
+     "v": "Cristeab"
+    },
+    {
+     "v": "1247153960"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Main functions */"
+    },
+    {
+     "v": "15692"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Convocation sejm"
+    },
+    {
+     "v": "1346736"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "332079055"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "433328"
+    },
+    {
+     "v": "SmackBot"
+    },
+    {
+     "v": "1260985040"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "remove Erik9bot category,outdated, tag and general fixes"
+    },
+    {
+     "v": "999"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Conner McKnight"
+    },
+    {
+     "v": "828461"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": "47904792"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1204080"
+    },
+    {
+     "v": "Unclerico89"
+    },
+    {
+     "v": "1144728341"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* History and Powers */"
+    },
+    {
+     "v": "6373"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Rage Against the Machine"
+    },
+    {
+     "v": "80027"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "102547170"
+    },
+    {
+     "v": "65.100.150.250"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1169509401"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "24563"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Sound/list"
+    },
+    {
+     "v": "1478564"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "128868361"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "2304267"
+    },
+    {
+     "v": "CommonsDelinker"
+    },
+    {
+     "v": "1178523887"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Replacing \"Wolfgang Amadeus Mozart - Klavierkonzert C-Dur - 2. Andante.ogg\" with \"Wolfgang Amadeus Mozart - Klaviersonate C-Dur KV 330 (300h) - 2- Andante cantabile - Schmidt 2000.ogg\"."
+    },
+    {
+     "v": "94110"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:WikiProject Molecular and Cellular Biology/Votes/protein rendering application"
+    },
+    {
+     "v": "8079903"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "89789607"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1409745"
+    },
+    {
+     "v": "Opabinia regalis"
+    },
+    {
+     "v": "1164353519"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* QuteMol */ comments"
+    },
+    {
+     "v": "4733"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Votes for deletion/Yu Cai Middle School"
+    },
+    {
+     "v": "1731805"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "12363173"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "28438"
+    },
+    {
+     "v": "Altenmann"
+    },
+    {
+     "v": "1113595538"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "chg my mind back"
+    },
+    {
+     "v": "9997"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Wikipedia:Manual of Style (dates and numbers)"
+    },
+    {
+     "v": "183692"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "4"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "211702413"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "275655"
+    },
+    {
+     "v": "Jimp"
+    },
+    {
+     "v": "1210531125"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Units of measurement */ {{disputedtag|section=yes}} this is disputed"
+    },
+    {
+     "v": "63480"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Bernhard Frank"
+    },
+    {
+     "v": "4681300"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "115485536"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1903813"
+    },
+    {
+     "v": "Carom"
+    },
+    {
+     "v": "1174018598"
+    },
+    {
+     "v": "true"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "Assessed as \"stub\" for [[Template:WPBiography|WPBiography]] via [[User talk:Outriggr/metadatatest.js|script]]"
+    },
+    {
+     "v": "671"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Catholic Church"
+    },
+    {
+     "v": "606776"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "30415507"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "159574"
+    },
+    {
+     "v": "TSP"
+    },
+    {
+     "v": "1133917585"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Visible and spiritual head */"
+    },
+    {
+     "v": "149120"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Talk:Anime"
+    },
+    {
+     "v": "77061"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "1"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "79610629"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "194528"
+    },
+    {
+     "v": "KyuuA4"
+    },
+    {
+     "v": "1160032801"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Anime vs Non-Anime: Korean animation... anime? */"
+    },
+    {
+     "v": "49768"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Category:Musician stubs"
+    },
+    {
+     "v": "1298120"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "14"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "332680464"
+    },
+    {
+     "v": "95.55.2.103"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1261234509"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "[[it:Categoria:Stub musicisti]]"
+    },
+    {
+     "v": "1598"
+    }
+   ]
+  },
+  {
+   "f": [
+    {
+     "v": "Halo: Combat Evolved"
+    },
+    {
+     "v": "287165"
+    },
+    {
+     "v": ""
+    },
+    {
+     "v": "0"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "47074460"
+    },
+    {
+     "v": "194.83.68.222"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "1144234406"
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": null
+    },
+    {
+     "v": "/* Exploits */"
+    },
+    {
+     "v": "39436"
+    }
+   ]
+  }
+ ],
+ "totalBytesProcessed": "0",
+ "jobComplete": true,
+ "cacheHit": true
+}

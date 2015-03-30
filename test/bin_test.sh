@@ -16,6 +16,12 @@ assert "echo $?" "0"
 curl -sL http://127.0.0.1:8765/search?search=apostrophe | grep "There's something about Mary"
 assert "echo $?" "0"
 
+curl -sL http://127.0.0.1:8765/bq?offset=0 | grep "uUPPcRivPhm3VhWkG4x"
+assert "echo $?" "0"
+
+curl -sL http://127.0.0.1:8765/bq?offset=51 | grep "fSas43yOAOeV5iQURZBMTEWc3As"
+assert "echo $?" "0"
+
 kill $CPID
 
 assert_end examples
